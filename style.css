@@ -1,0 +1,84 @@
+body {
+	font-family: 'Open-sans', sans-serif;
+	font-size: 16px;
+}
+
+h1 {
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+}
+
+p {
+	color: 8f8f8f;
+	width: 100%;
+	text-align: center;
+}
+
+#title {
+	padding-top: 5rem;
+	background-color: #ff4c68;
+	color: #fff;
+	font-size: 24px;
+	font-weight: bold;
+	width: 100%;
+}
+
+.rounded-pill {
+	width: 40px;
+}
+
+.nav-item {
+	margin-left: 8px;
+}
+
+.form-control.me-2 {
+	width: 785px;
+}
+
+#section {
+	padding:100px 20px;
+	width: 100%;
+}
+
+#features {
+	padding: 7% 15%;
+	text-align: center;
+	width: 100%;
+}
+
+.feature-box {
+	padding: 2%;
+}
+
+#testimonials {
+	padding: 7% 15%;
+	text-align: center;
+	background-color: #ef8172;
+	color: #fff;
+	width: 100%;
+}
+
+.testimonial-img {
+	width: 15%;
+	border-radius: 100%;
+	margin: 20px;
+}
+
+#press {
+	text-align: center;
+	background-color: ef8172;
+	padding-bottom: 3%;
+	width: 100%;
+}
+
+.footer {
+	width: 100%;
+	background-color: #ef8172;
+}
+
+.ad {
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
